@@ -5,7 +5,7 @@
 The project interested me from the word go. I was eager to get cracking. The project was going to test application of my newly learnt basic python coding skills.  The project brief given was very exciting! 
 It said : "Hello lieutenant! It's with an emergency that our agency wishes to use the skills that you learned in 'python intermediate' module. Your mission if you choose to accept it, would be to help us decipher a message that we received from our intel. We have multiple text files that need to be read and have certain operations performed to get our final message. Good luck. The fate of humanity lies in your hands."
 
- I  was the lietenant all set to decode the message with my newly learnt python skills. The task was to read the message received in a file, in fact extract a series of messages as it turned out susequently,  fuse them, substitute with a secret message, compare messages and filter messages to extract the desired message and finally, combine the bits of messages extracted to get the FINAL MESSAGE!! 
+ I  was the lieutenant all set to decode the message with my newly learnt python skills. The task was to read the message received in a file, in fact extract a series of messages as it turned out susequently,  fuse them, substitute with a secret message, compare messages and filter messages to extract the desired message and finally, combine the bits of messages extracted to get the FINAL MESSAGE!! 
 
 WHOA! Extracting the final message was so gratifying!! It indeed felt like being a diligent and dutiful spy ever willing to serve the nation and humanity!
 
