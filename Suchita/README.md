@@ -13,18 +13,18 @@ WHOA! Extracting the final message was so gratifying!! It indeed felt like being
 
 ### Learnings from the project
 
- The first and foremost thing I learnt was donning a spy's hat and to be vigilant and alert while decoding the messages and instructions given and then coding them to get the desired output. The complexity of tasks increased with each task and a lot of patience was required to get the code right particumarly the syntax, to pay attention to comas, underscores, colons, the parentheses, identation as well as the variables used, types of variables and string operations, key-words and construct of the code. I can summary my learning as :
+ The first and foremost thing I learnt was donning a spy's hat and to be vigilant and alert while decoding the messages and instructions given and then coding them to get the desired output. The complexity of tasks increased with each task and a lot of patience was required to get the code right particularly the syntax, to pay attention to commas, underscores, colons, the parentheses, identation as well as the variables used, types of variables and string operations, key-words and construct of the code. I can summarise my learning in this project as below :
 1. How to open a file, the importance of entering the right file path while opening the file and how to read a line and that every file must be closed.
 2. How to write functions. The python functions I wrote in this projects were - 
-    a) to read a file, different modes in which a file can be opened - r, w, r+, w+, a, a+, how to read first line, more lines i.e. difference between readline() and     readlines(), how to store a file_path in a variable.
+    a) to read a file, different modes in which a file can be opened - r, w, r+, w+, a, a+, how to read first line, more lines i.e. difference between readline() and readlines(), how to store a file_path in a variable.
     b) to fuse two messages involving string operations. 
    c) to substitute a message if the given condition was met using conditional statements such as if-elif-else.
-   d) to compare messages from different files, apply filter for the given condition, break the messages and join the remaining words to get the desired message
+   d) to compare messages from different files, apply filter for the given condition, break the messages and join the remaining words to get the desired message.
    e) to extract a message by breaking down messages, applying a function to extract the required words and them applying a filter to form the required message   from filtered words or strings.
    f) to write a file - open a file in append a+ mode, write a message and close file.
 3.  Importance of 'return' statements and how I struggled to get the final message in the absence of a return statement.
 4. How to call the user-defined functions and use them.
-5. How to write conditional statements e.g.  if-elif-elif were used to read messages and substitue the message based on if the given condition was met
+5. How to write conditional statements e.g.  if-elif-elif were used to read messages and substitue the message based on the given if conditions.
 6. How to break a sentence (string of strings using split method and separator, also how to join strings to form a sentence or a string of strings.
 7. How to use a lambda function for string operations to get length of strings.
 8. How to use 'filter' for string operations
